@@ -1,5 +1,5 @@
 
-
+alert('ola')
 
 const sec = document.querySelector(".sec");
 
